@@ -1,3 +1,23 @@
+#PHOTOS
+
+![photo1](src/photo/Знімок екрана 2024-11-08 о 9.05.01 дп.png)
+![photo2](src/photo/Знімок екрана 2024-11-08 о 9.05.04 дп.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
