@@ -1,7 +1,9 @@
 #PHOTOS
 
 ![photo1](src/photo/Знімок екрана 2024-11-08 о 9.05.01 дп.png)
+https://github.com/Mykhailo5090/modulates/blob/main/src/photo/Знімок%20екрана%202024-11-08%20о%209.05.01%E2%80%AFдп.png
 ![photo2](src/photo/Знімок екрана 2024-11-08 о 9.05.04 дп.png)
+
 
 
 
