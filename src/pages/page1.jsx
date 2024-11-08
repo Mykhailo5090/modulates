@@ -1,7 +1,8 @@
 import React from 'react';
 
+
 const Page1 = ({ city }) => (
-  <div>
+  <div className="container__info">
     <h2>Місто: {city}</h2>
   </div>
 );

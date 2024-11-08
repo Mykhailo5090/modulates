@@ -1,8 +1,8 @@
-// src/pages/Page2.js
 import React from 'react';
 
+
 const Page2 = ({ hobby }) => (
-  <div>
+  <div className="container__info">
     <h2>Хобі: {hobby}</h2>
   </div>
 );
